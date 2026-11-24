@@ -1,0 +1,6 @@
+{
+  "name": "Petozzy - Tasses de Mascotes i Comerç Peninsular",
+  "description": "Plataforma de comerç internacional i tasses de mascotes personalitzades d'alta qualitat entre Catalunya i Portugal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
